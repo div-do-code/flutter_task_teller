@@ -68,9 +68,10 @@ class Note {
 }
 
 
-
-
-
+/*
+when we use restfulAPI we encode data in json with these Map's.
+Learned from Woo+flutter app todayy date - 1 march 2021.
+*/
 
 
 
